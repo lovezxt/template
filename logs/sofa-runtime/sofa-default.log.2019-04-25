@@ -1,0 +1,177 @@
+2019-04-25 15:11:14,334 INFO  main                             - SOFABoot Runtime Starting!
+2019-04-25 15:11:16,644 INFO  main                             - Registering component: reference:com.yourchoice.login.service.system.SystemUserService:annotationImpl#414599042
+2019-04-25 15:11:16,644 INFO  main                             -  >>In Binding [jvm] Begins - com.yourchoice.login.service.system.SystemUserService:annotationImpl.
+2019-04-25 15:11:16,646 INFO  main                             -  >>In Binding [jvm] Ends - com.yourchoice.login.service.system.SystemUserService:annotationImpl.
+2019-04-25 15:11:17,207 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of template Start +++++++++++++++++
+2019-04-25 15:11:17,330 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of template End +++++++++++++++++
+2019-04-25 15:11:17,330 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of template Start +++++++++++++++++
+2019-04-25 15:11:17,330 INFO  main                             - 
+All unactivated module list(1) >>>>>>>
+  └─ com.yourchoice.template.login-common
+
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2019-04-25 15:11:17,331 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of template End +++++++++++++++++
+2019-04-25 15:11:17,331 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of template Start +++++++++++++++++
+2019-04-25 15:11:17,331 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-04-25 15:11:17,331 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of template End +++++++++++++++++
+2019-04-25 15:29:07,529 INFO  main                             - SOFABoot Runtime Starting!
+2019-04-25 15:29:09,420 INFO  main                             - Registering component: reference:com.yourchoice.login.service.system.SystemUserService:componentScanTest#414599042
+2019-04-25 15:29:09,420 INFO  main                             -  >>In Binding [jvm] Begins - com.yourchoice.login.service.system.SystemUserService:componentScanTest.
+2019-04-25 15:29:09,422 INFO  main                             -  >>In Binding [jvm] Ends - com.yourchoice.login.service.system.SystemUserService:componentScanTest.
+2019-04-25 15:29:09,976 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of template Start +++++++++++++++++
+2019-04-25 15:29:09,980 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of template End +++++++++++++++++
+2019-04-25 15:29:09,980 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of template Start +++++++++++++++++
+2019-04-25 15:29:09,980 INFO  main                             - 
+All unactivated module list(1) >>>>>>>
+  └─ com.yourchoice.template.login-common
+
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2019-04-25 15:29:09,981 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of template End +++++++++++++++++
+2019-04-25 15:29:09,981 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of template Start +++++++++++++++++
+2019-04-25 15:29:09,981 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-04-25 15:29:09,981 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of template End +++++++++++++++++
+2019-04-25 15:36:30,401 INFO  main                             - SOFABoot Runtime Starting!
+2019-04-25 15:36:32,247 INFO  main                             - Registering component: reference:com.yourchoice.login.service.system.SystemUserService:#414599042
+2019-04-25 15:36:32,247 INFO  main                             -  >>In Binding [jvm] Begins - com.yourchoice.login.service.system.SystemUserService.
+2019-04-25 15:36:32,249 INFO  main                             -  >>In Binding [jvm] Ends - com.yourchoice.login.service.system.SystemUserService.
+2019-04-25 15:36:32,899 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of template Start +++++++++++++++++
+2019-04-25 15:36:32,904 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of template End +++++++++++++++++
+2019-04-25 15:36:32,904 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of template Start +++++++++++++++++
+2019-04-25 15:36:32,904 INFO  main                             - 
+All unactivated module list(1) >>>>>>>
+  └─ com.yourchoice.template.login-common
+
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2019-04-25 15:36:32,905 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of template End +++++++++++++++++
+2019-04-25 15:36:32,905 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of template Start +++++++++++++++++
+2019-04-25 15:36:32,905 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-04-25 15:36:32,905 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of template End +++++++++++++++++
+2019-04-25 17:09:28,659 INFO  main                             - SOFABoot Runtime Starting!
+2019-04-25 17:09:30,562 INFO  main                             - Registering component: reference:com.yourchoice.login.service.system.SystemUserService:#414599042
+2019-04-25 17:09:30,562 INFO  main                             -  >>In Binding [jvm] Begins - com.yourchoice.login.service.system.SystemUserService.
+2019-04-25 17:09:30,563 INFO  main                             -  >>In Binding [jvm] Ends - com.yourchoice.login.service.system.SystemUserService.
+2019-04-25 17:09:31,193 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of template Start +++++++++++++++++
+2019-04-25 17:09:31,197 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of template End +++++++++++++++++
+2019-04-25 17:09:31,198 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of template Start +++++++++++++++++
+2019-04-25 17:09:31,198 INFO  main                             - 
+All unactivated module list(1) >>>>>>>
+  └─ com.yourchoice.template.login-common
+
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2019-04-25 17:09:31,199 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of template End +++++++++++++++++
+2019-04-25 17:09:31,199 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of template Start +++++++++++++++++
+2019-04-25 17:09:31,199 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-04-25 17:09:31,199 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of template End +++++++++++++++++
+2019-04-25 17:55:57,647 INFO  main                             - SOFABoot Runtime Starting!
+2019-04-25 17:55:59,569 INFO  main                             - Registering component: reference:com.yourchoice.login.service.system.SystemUserService:#414599042
+2019-04-25 17:55:59,569 INFO  main                             -  >>In Binding [jvm] Begins - com.yourchoice.login.service.system.SystemUserService.
+2019-04-25 17:55:59,571 INFO  main                             -  >>In Binding [jvm] Ends - com.yourchoice.login.service.system.SystemUserService.
+2019-04-25 17:56:00,235 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of template Start +++++++++++++++++
+2019-04-25 17:56:00,239 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of template End +++++++++++++++++
+2019-04-25 17:56:00,239 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of template Start +++++++++++++++++
+2019-04-25 17:56:00,239 INFO  main                             - 
+All unactivated module list(1) >>>>>>>
+  └─ com.yourchoice.template.login-common
+
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2019-04-25 17:56:00,240 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of template End +++++++++++++++++
+2019-04-25 17:56:00,240 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of template Start +++++++++++++++++
+2019-04-25 17:56:00,240 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-04-25 17:56:00,240 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of template End +++++++++++++++++
+2019-04-25 18:00:16,612 INFO  main                             - SOFABoot Runtime Starting!
+2019-04-25 18:01:04,436 INFO  main                             - SOFABoot Runtime Starting!
+2019-04-25 18:02:06,154 INFO  main                             - SOFABoot Runtime Starting!
+2019-04-25 18:02:08,895 INFO  main                             - Registering component: reference:com.yourchoice.login.service.system.SystemUserService:#414599042
+2019-04-25 18:02:08,895 INFO  main                             -  >>In Binding [jvm] Begins - com.yourchoice.login.service.system.SystemUserService.
+2019-04-25 18:02:08,897 INFO  main                             -  >>In Binding [jvm] Ends - com.yourchoice.login.service.system.SystemUserService.
+2019-04-25 18:02:09,513 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of template Start +++++++++++++++++
+2019-04-25 18:02:09,518 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of template End +++++++++++++++++
+2019-04-25 18:02:09,518 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of template Start +++++++++++++++++
+2019-04-25 18:02:09,518 INFO  main                             - 
+All unactivated module list(1) >>>>>>>
+  └─ com.yourchoice.template.login-common
+
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2019-04-25 18:02:09,519 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of template End +++++++++++++++++
+2019-04-25 18:02:09,519 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of template Start +++++++++++++++++
+2019-04-25 18:02:09,519 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-04-25 18:02:09,519 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of template End +++++++++++++++++
+2019-04-25 18:04:27,499 INFO  main                             - SOFABoot Runtime Starting!
+2019-04-25 18:04:30,271 INFO  main                             - Registering component: reference:com.yourchoice.login.service.system.SystemUserService:#414599042
+2019-04-25 18:04:30,271 INFO  main                             -  >>In Binding [jvm] Begins - com.yourchoice.login.service.system.SystemUserService.
+2019-04-25 18:04:30,273 INFO  main                             -  >>In Binding [jvm] Ends - com.yourchoice.login.service.system.SystemUserService.
+2019-04-25 18:04:30,908 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of template Start +++++++++++++++++
+2019-04-25 18:04:30,912 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of template End +++++++++++++++++
+2019-04-25 18:04:30,912 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of template Start +++++++++++++++++
+2019-04-25 18:04:30,912 INFO  main                             - 
+All unactivated module list(1) >>>>>>>
+  └─ com.yourchoice.template.login-common
+
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2019-04-25 18:04:30,913 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of template End +++++++++++++++++
+2019-04-25 18:04:30,913 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of template Start +++++++++++++++++
+2019-04-25 18:04:30,913 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-04-25 18:04:30,913 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of template End +++++++++++++++++

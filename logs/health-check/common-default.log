@@ -1,0 +1,40 @@
+2019-04-26 09:30:38,374 INFO  main                             - SOFABoot HealthCheck Starting!
+2019-04-26 09:30:41,615 INFO  main                             - Found 2 HealthChecker implementation:sofaModuleHealthChecker,sofaComponentHealthChecker
+2019-04-26 09:30:41,616 INFO  main                             - Found 3 HealthIndicator implementation:sofaBootHealthIndicator,dbHealthIndicator,diskSpaceHealthIndicator
+2019-04-26 09:30:41,617 INFO  main                             - Found 0 ReadinessCheckCallback implementation: 
+2019-04-26 09:30:41,617 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2019-04-26 09:30:41,618 INFO  main                             - HealthChecker[sofaModuleHealthChecker] readiness check success with 0 retry.
+2019-04-26 09:30:41,638 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 0 retry.
+2019-04-26 09:30:42,639 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 1 retry.
+2019-04-26 09:30:43,640 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 2 retry.
+2019-04-26 09:30:44,641 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 3 retry.
+2019-04-26 09:30:45,641 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 4 retry.
+2019-04-26 09:30:46,642 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 5 retry.
+2019-04-26 09:30:47,642 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 6 retry.
+2019-04-26 09:30:48,642 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 7 retry.
+2019-04-26 09:30:49,643 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 8 retry.
+2019-04-26 09:30:50,644 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 9 retry.
+2019-04-26 09:30:51,645 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 10 retry.
+2019-04-26 09:30:52,645 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 11 retry.
+2019-04-26 09:30:53,646 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 12 retry.
+2019-04-26 09:30:54,646 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 13 retry.
+2019-04-26 09:30:55,647 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 14 retry.
+2019-04-26 09:30:56,701 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 15 retry.
+2019-04-26 09:30:57,702 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 16 retry.
+2019-04-26 09:30:58,702 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 17 retry.
+2019-04-26 09:30:59,702 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 18 retry.
+2019-04-26 09:31:00,702 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 19 retry.
+2019-04-26 09:31:01,724 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.yourchoice.login.service.system.SystemUserService:#414599042":"jvm#can not find corresponding jvm service"}; strict mode:true
+2019-04-26 09:31:01,725 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2019-04-26 09:31:01,725 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2019-04-26 09:31:01,780 INFO  main                             - HealthIndicator[dbHealthIndicator] readiness check success.
+2019-04-26 09:31:01,780 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2019-04-26 09:31:01,781 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2019-04-26 09:31:01,781 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2019-04-26 09:31:01,781 INFO  main                             - ReadinessCheckCallback readiness check result: success.
+2019-04-26 09:31:01,781 ERROR main                             - Readiness check result: fail
+2019-04-26 09:31:02,556 INFO  RMI TCP Connection(7)-192.168.137.1 - Begin SOFABoot HealthChecker liveness check.
+2019-04-26 09:31:02,556 INFO  RMI TCP Connection(7)-192.168.137.1 - HealthChecker[sofaModuleHealthChecker] liveness check success with 0 retry.
+2019-04-26 09:31:02,557 INFO  RMI TCP Connection(7)-192.168.137.1 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry.
+2019-04-26 09:31:02,557 ERROR RMI TCP Connection(7)-192.168.137.1 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.yourchoice.login.service.system.SystemUserService:#414599042":"jvm#can not find corresponding jvm service"}; strict mode:true
+2019-04-26 09:31:02,604 ERROR RMI TCP Connection(7)-192.168.137.1 - SOFABoot HealthChecker liveness check result: failed.

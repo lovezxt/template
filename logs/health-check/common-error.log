@@ -1,0 +1,5 @@
+2019-04-26 09:31:01,724 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.yourchoice.login.service.system.SystemUserService:#414599042":"jvm#can not find corresponding jvm service"}; strict mode:true
+2019-04-26 09:31:01,725 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2019-04-26 09:31:01,781 ERROR main                             - Readiness check result: fail
+2019-04-26 09:31:02,557 ERROR RMI TCP Connection(7)-192.168.137.1 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.yourchoice.login.service.system.SystemUserService:#414599042":"jvm#can not find corresponding jvm service"}; strict mode:true
+2019-04-26 09:31:02,604 ERROR RMI TCP Connection(7)-192.168.137.1 - SOFABoot HealthChecker liveness check result: failed.
